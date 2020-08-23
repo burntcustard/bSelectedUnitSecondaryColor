@@ -1,0 +1,17 @@
+{
+    "context": "client",
+    "identifier": "io.burnt.selected-unit-secondary",
+    "display_name": "Selected Unit Secondary Colour",
+    "description": "Makes selected units icons secondary colour",
+    "author": "burntcustard",
+    "version": "1.0",
+    "enabled": true,
+    "icon": "https://dl.dropboxusercontent.com/u/28565393/Planetary%20Annihilation/Mods/Icons/bSelectedUnitSecondary.png",
+    "category": [
+        "Strategic Icons",
+        "in-game",
+        "ui"
+    ],
+    "date": "2020/08/23",
+    "build": "114823"
+}
